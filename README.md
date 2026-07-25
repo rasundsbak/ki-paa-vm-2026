@@ -18,3 +18,5 @@ Vennligst sjekk listen jevnlig for dine @mentions.
 * Vi må ferdigstille kapittel 3 og 4 i dokumentasjonen før fredag.
 * Ingen nye prosjekter skal startes før de eksisterende oppgavene over er krysset ut.
 
+## [Emojis](https://gist.github.com/chengpeiquan/4de9185285bafc7d77f8b47f3c79ad29)
+
