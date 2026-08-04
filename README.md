@@ -1,5 +1,6 @@
 # ki-paa-vm-2026
 We are collaborating on a project setting up AI on a virtual machine.
+Documentation on setup and use: https://github.com/ivartz/nrec-oneclick-vps-vgpu 
 
 ## Todo list
 
