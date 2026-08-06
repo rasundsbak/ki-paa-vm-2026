@@ -5,8 +5,6 @@ Documentation on setup and use: https://github.com/ivartz/nrec-oneclick-vps-vgpu
 NREC dashbord
 https://dashboard.nrec.no
 
-Dagens notater: https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
-
 ## Todo list
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
