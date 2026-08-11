@@ -6,6 +6,9 @@ NREC dashbord
 https://dashboard.nrec.no
 
 ## Todo list
+- installere Firefox browser. Jeg prøvde med sudo snap install forefox, men har nå fjernet den, fordi den virket ikke.
+
+  
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
 
