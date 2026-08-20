@@ -8,7 +8,8 @@ https://dashboard.nrec.no
 ## Todo list
 - installere Firefox browser. Jeg prøvde med sudo snap install forefox, men har nå fjernet den, fordi den virket ikke.
 
-  
+## Dagens notater
+https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
 
@@ -26,4 +27,3 @@ Vennligst sjekk listen jevnlig for dine @mentions.
 * Ingen nye prosjekter skal startes før de eksisterende oppgavene over er krysset ut.
 
 ## [Emojis](https://gist.github.com/chengpeiquan/4de9185285bafc7d77f8b47f3c79ad29)
-
