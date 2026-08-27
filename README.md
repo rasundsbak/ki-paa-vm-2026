@@ -17,7 +17,7 @@ Her finner du den offisielle oversikten over prioriteringer og oppgaver.
 Vennligst sjekk listen jevnlig for dine @mentions.
 
 ## 📋 Oppgaveliste
-- [ ] @KariNordmann – Oppdatere kvartalsrapporten for Q2
+- [ ] @pallykkja – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
 - [ ] @OlaNordmann – Gjøre rede for teknisk arkitektur i dokumentasjonen
 - [x] @PerHansen – Sjekke og godkjenne API-spesifikasjonen (Fullført)
 - [ ] @LiseJensen – Forberede presentasjon til neste partnermøte
