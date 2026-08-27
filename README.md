@@ -18,6 +18,7 @@ Vennligst sjekk listen jevnlig for dine @mentions.
 
 ## 📋 Oppgaveliste
 - [ ] @pallykkja – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
+- [ ] @pallykkja - Kjøre seg kjemt med hvordan filene ligger nå, og hvordan man starter opp med hermes desktop på VM
 - [ ] @yutong – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
 - [ ] @rasundsbak - Installere Zotero på VMen
 - [ ] @
