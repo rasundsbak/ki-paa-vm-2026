@@ -18,12 +18,14 @@ Vennligst sjekk listen jevnlig for dine @mentions.
 
 ## 📋 Oppgaveliste
 - [ ] @pallykkja – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
-- [ ] @OlaNordmann – Gjøre rede for teknisk arkitektur i dokumentasjonen
-- [x] @PerHansen – Sjekke og godkjenne API-spesifikasjonen (Fullført)
-- [ ] @LiseJensen – Forberede presentasjon til neste partnermøte
+- [ ] @yutong – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
+- [ ] @rasundsbak - Installere Zotero på VMen
+- [ ] @
+- [ ] @
+- [ ] @
 
 ## 🎯 Ukens Agenda / Fokusområde
-* Vi må ferdigstille kapittel 3 og 4 i dokumentasjonen før fredag.
+* Alle brukere må sjekke at systemene virker, og legge inn informasjon her, dersom noe knirker.
 * Ingen nye prosjekter skal startes før de eksisterende oppgavene over er krysset ut.
 
 ## [Emojis](https://gist.github.com/chengpeiquan/4de9185285bafc7d77f8b47f3c79ad29)
