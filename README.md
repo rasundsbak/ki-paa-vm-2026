@@ -10,7 +10,7 @@ NREC dashbord
 https://dashboard.nrec.no
 
 ## Todo list
-- installere Firefox browser. Jeg prøvde med sudo snap install forefox, men har nå fjernet den, fordi den virket ikke.
+- installere Firefox browser. Jeg prøvde med sudo snap install firefox, men har nå fjernet den, fordi den virket ikke.
 
 ## Dagens notater
 https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
