@@ -15,6 +15,9 @@ https://dashboard.nrec.no
     - Konklusjonen føres inn i Dagens notater, dersom vi får til å gjøre dette klart: Omnissa, XRDP, Linux vdi?
     - Ta et valg.
 - Vi testet den nye KIen fra Llama.cpp med forbedret vGPU.
+- Bør vi satse på å logge inn på hermes-test der vi har mye lagsingsplass, for deretter å ha tunnell til hermes-lokal slik at vi kan ha KIen på GPUen.
+      - sette opp liste over programvare hermes-test
+      - sette opp liste over programvare hermes-lokal
 - Viser Obsidian arkivet og lager en mappe med oversikt plan videre.
 - Innspill og ideer.
 
