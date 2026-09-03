@@ -12,10 +12,11 @@ https://dashboard.nrec.no
 ##  :notebook: Pusletime
 - Vi tester innlogging flere av gangen med sudo -u hermes /opt/TurboVNC/bin/vncserver
 - Vi analyserer meningen i epost mellomn Ivar, Knut og Espen R. Hva betyr dette for oss nå?
-    - Konklusjonen føres inn i Dagens notater, dersom vi får til å gjøre dette klart.
-- Vi testet den nye KIen fra Llama.cpp med forbedret vGPU
-- Viser Obsidian arkivet og lager en mappe med oversikt plan videre
-- Innspill og ideer
+    - Konklusjonen føres inn i Dagens notater, dersom vi får til å gjøre dette klart: Omnissa, XRDP, Linux vdi?
+    - Ta et valg.
+- Vi testet den nye KIen fra Llama.cpp med forbedret vGPU.
+- Viser Obsidian arkivet og lager en mappe med oversikt plan videre.
+- Innspill og ideer.
 
 ## Todo list
 - installere Firefox browser. Jeg prøvde med sudo snap install firefox, men har nå fjernet den, fordi den virket ikke.
