@@ -9,7 +9,7 @@ From Nous' Hermes, the way they present the tool:
 NREC dashbord
 https://dashboard.nrec.no
 
-## Pusletime
+##  :notebook: Pusletime
 - Vi tester innlogging flere av gangen
 - Vi testet den nye KIen fra Llama.cpp med forbedret vGPU
 - Viser Obsidian arkivet og lager en mappe med oversikt plan videre
