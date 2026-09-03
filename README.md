@@ -9,8 +9,16 @@ From Nous' Hermes, the way they present the tool:
 NREC dashbord
 https://dashboard.nrec.no
 
+## Pusletime
+- Vi tester innlogging flere av gangen
+- Vi testet den nye KIen fra Llama.cpp med forbedret vGPU
+- Viser Obsidian arkivet og lager en mappe med oversikt plan videre
+- Innspill og ideer
+
 ## Todo list
 - installere Firefox browser. Jeg prøvde med sudo snap install firefox, men har nå fjernet den, fordi den virket ikke.
+- Samme med Chromium - er dette på grunn av sikkerhetsinnstillinger?
+- Installere Zotero
 
 ## Dagens notater
 https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
