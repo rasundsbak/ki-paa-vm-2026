@@ -10,7 +10,9 @@ NREC dashbord
 https://dashboard.nrec.no
 
 ##  :notebook: Pusletime
-- Vi tester innlogging flere av gangen
+- Vi tester innlogging flere av gangen med sudo -u hermes /opt/TurboVNC/bin/vncserver
+- Vi analyserer meningen i epost mellomn Ivar, Knut og Espen R. Hva betyr dette for oss nå?
+    - Konklusjonen føres inn i Dagens notater, dersom vi får til å gjøre dette klart.
 - Vi testet den nye KIen fra Llama.cpp med forbedret vGPU
 - Viser Obsidian arkivet og lager en mappe med oversikt plan videre
 - Innspill og ideer
