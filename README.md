@@ -25,6 +25,8 @@ https://dashboard.nrec.no
 - installere Firefox browser. Jeg prøvde med sudo snap install firefox, men har nå fjernet den, fordi den virket ikke.
 - Samme med Chromium - er dette på grunn av sikkerhetsinnstillinger?
 - Installere Zotero
+- planlegge lærings loop for selv læring. stikkord hermes. unsloth og llama.cpp
+vurdere nødnendigheten av å ha to KIer en til å kritisere for forbedring an den andre.
 
 ## Dagens notater
 https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
