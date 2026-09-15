@@ -28,10 +28,10 @@ https://dashboard.nrec.no
 - planlegge lærings loop for selv læring. stikkord hermes. unsloth og llama.cpp
 vurdere nødnendigheten av å ha to KIer en til å kritisere for forbedring an den andre.
 
-## Dagens notater innholdsrik
+## Dagens notater innholdsrik "alt"
 https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
 
-## Dagens notater kort versjon
+## Dagens notater kort versjon "bedre organisert og til framvisninger"
 https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA
 
 
