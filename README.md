@@ -32,7 +32,7 @@ vurdere nødnendigheten av å ha to KIer en til å kritisere for forbedring an d
 https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
 
 ## Dagens notater kort versjon "bedre organisert og til framvisninger"
-https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA
+[https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA](https://hackmd.okfn.de/s/HyT1HhuLGg)
 
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
