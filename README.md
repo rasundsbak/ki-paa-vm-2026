@@ -29,10 +29,10 @@ https://dashboard.nrec.no
 vurdere nødnendigheten av å ha to KIer en til å kritisere for forbedring an den andre.
 
 ## Dagens notater innholdsrik "alt"
-https://hackmd.okfn.de/g1yXOHdmRIuxnVydrq0vIA?both
+https://hackmd.okfn.de/IUJllb2yQpWtcDqzxLdUbw
 
 ## Dagens notater kort versjon "bedre organisert og til framvisninger"
-https://hackmd.okfn.de/hckCb8jHSVKuf7rNavZRrw?both
+https://hackmd.okfn.de/koQ88bewRmWR65neI0HXLQ
 
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
