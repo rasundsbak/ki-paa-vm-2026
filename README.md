@@ -7,33 +7,7 @@ From Nous' Hermes, the way they present the tool:
 "The self-improving AI agent built by Nous Research. The only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, and builds a deepening model of who you are across sessions." [Nous research](https://hermes-agent.nousresearch.com/docs)
 
 NREC dashbord
-https://dashboard.nrec.no
-
-##  :notebook: Pusletime
-- Vi tester innlogging flere av gangen med sudo -u hermes /opt/TurboVNC/bin/vncserver
-- Vi analyserer meningen i epost mellomn Ivar, Knut og Espen R. Hva betyr dette for oss nå?
-    - Konklusjonen føres inn i Dagens notater, dersom vi får til å gjøre dette klart: Omnissa, XRDP, Linux vdi?
-    - Ta et valg.
-- Vi testet den nye KIen fra Llama.cpp med forbedret vGPU.
-- Bør vi satse på å logge inn på hermes-test der vi har mye lagsingsplass, for deretter å ha tunnell til hermes-lokal slik at vi kan ha KIen på GPUen.
-      - sette opp liste over programvare hermes-test
-      - sette opp liste over programvare hermes-lokal
-- Viser Obsidian arkivet og lager en mappe med oversikt plan videre.
-- Innspill og ideer.
-
-## Todo list
-- installere Firefox browser. Jeg prøvde med sudo snap install firefox, men har nå fjernet den, fordi den virket ikke.
-- Samme med Chromium - er dette på grunn av sikkerhetsinnstillinger?
-- Installere Zotero
-- planlegge lærings loop for selv læring. stikkord hermes. unsloth og llama.cpp
-vurdere nødnendigheten av å ha to KIer en til å kritisere for forbedring an den andre.
-
-## Dagens notater innholdsrik "alt"
-https://hackmd.okfn.de/IUJllb2yQpWtcDqzxLdUbw
-
-## Dagens notater kort versjon "bedre organisert og til framvisninger"
-https://hackmd.okfn.de/koQ88bewRmWR65neI0HXLQ
-
+https://dashboard.nrec.n
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
 
