@@ -9,7 +9,7 @@ From Nous' Hermes, the way they present the tool:
 NREC dashbord
 https://dashboard.nrec.n
 
-## internt arkiv for aktive prosjektmedlemmer
+## Arkiv for aktive prosjektmedlemmer
 https://github.uio.no/ragnhsu/ki-paa-vm/blob/main/README.md
 
 # 📌 Aktuell Agenda & Oppgaver - eksempel
