@@ -17,17 +17,6 @@ https://github.uio.no/ragnhsu/ki-paa-vm/blob/main/README.md
 Her finner du den offisielle oversikten over prioriteringer og oppgaver. 
 Vennligst sjekk listen jevnlig for dine @mentions.
 
-## 📋 Oppgaveliste
-- [ ] @pallykkja – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
-- [ ] @pallykkja - Gjøre seg kjemt med hvordan filene ligger nå, og hvordan man starter opp med hermes desktop på VM
-- [ ] @yutong – Logge inn ifølge oppskrift på Hackmd og sjekke at alt virker
-- [ ] @rasundsbak - Installere Zotero på VMen
-- [ ] @pallykkja - får feilmelding med installering av chromium: palml@hermes-807aad:~$ chromium --no-sandbox
-
-[399164:399164:0828/091938.532714:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:257] Missing X server or $DISPLAY
-[399164:399164:0828/091938.532764:ERROR:ui/aura/env.cc:246] The platform failed to initialize.  Exiting.
-- [ ] @
-- [ ] @
 
 ## 🎯 Ukens Agenda / Fokusområde
 * Alle brukere må sjekke at systemene virker, og legge inn informasjon her, dersom noe knirker.
