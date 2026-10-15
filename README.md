@@ -19,7 +19,7 @@ Vennligst sjekk listen jevnlig for dine @mentions.
 
 
 ## 🎯 Ukens Agenda / Fokusområde
-- [ ] Alle brukere må sjekke at systemene virker, og legge inn informasjon her, dersom noe knirker.
+- [X] Alle brukere må sjekke at systemene virker, og legge inn informasjon her, dersom noe knirker.
 
 - [ ] Ingen nye prosjekter skal startes før de eksisterende oppgavene over er krysset ut.
 
