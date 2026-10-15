@@ -20,7 +20,9 @@ Vennligst sjekk listen jevnlig for dine @mentions.
 
 ## 🎯 Ukens Agenda / Fokusområde
 [ ] Alle brukere må sjekke at systemene virker, og legge inn informasjon her, dersom noe knirker.
+
 [ ] Ingen nye prosjekter skal startes før de eksisterende oppgavene over er krysset ut.
+
 [ ] Standardisert fargebruk fra ["Girl in blue music"](https://girlinbluemusic.com/how-to-connect-zotero-and-obsidian-for-the-ultimate-phd-workflow/?srsltid=AU7gw4V7PM5F5_Puykossec8r3kTxK6c4lJDgQC2a0t5MVrrBBnOGC7H)
     * Red is for claims the author makes that I disagree with, am skeptical of, or know has been debunked in some way by other studies
     * Yellow is for important or interesting claims made by the author, so ideas that are important for their main thesis that I want to remember or include in a summary I write
