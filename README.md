@@ -6,9 +6,6 @@ Documentation on setup and use: https://github.com/ivartz/nrec-oneclick-vps-vgpu
 From Nous' Hermes, the way they present the tool:
 "The self-improving AI agent built by Nous Research. The only agent with a built-in learning loop — it creates skills from experience, improves them during use, nudges itself to persist knowledge, and builds a deepening model of who you are across sessions." [Nous research](https://hermes-agent.nousresearch.com/docs)
 
-NREC dashbord
-https://dashboard.nrec.n
-
 ## Arkiv for aktive prosjektmedlemmer
 https://github.uio.no/ragnhsu/ki-paa-vm/blob/main/README.md
 
