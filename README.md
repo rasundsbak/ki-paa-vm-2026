@@ -16,6 +16,24 @@ https://github.uio.no/ragnhsu/ki-paa-vm/blob/main/README.md
 
 ## Inspirasjonskilder
 
+Chavez-Mattos (2026): [Claude Code vs Codex vs Hermes: Choosing the Right AI Agent Harness](https://www.mindstudio.ai/blog/choosing-right-ai-coding-agent-harness)
+
+Doe, John (2026) [AI Agent Ecosystem — 2026 Landscape Overview](https://cloud.nevron.no/s/yeJts4i49gkHYS9?dir=/&editing=false&openfile=true)
+
+Forte, T. (2022). Building a second brain: a proven method to organize your digital life and unlock your creative potential. Profile Books.
+
+Karpathy (2026): [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+Mao et. al (2026) ["You're Right, Let Me Fix It": How LLM Agents Damage Correct Work When Falsely Accused](https://arxiv.org/pdf/2609.32616)
+
+Nousresearch (2026). Hermes agent from url https://hermes-agent.nousresearch.com/docs.
+
+NREC (2026): [Nrec docs](https://docs.nrec.no/usecase-toturials.html)
+
 Pinecone (2026): [Better Models Won’t Save Your Agent](https://www.pinecone.io/blog/introducing-nexus-knowledge-engine/)
+
+Sascha (2026). Regaining Focus With a Deep Reading Practice from url https://zettelkasten.de/posts/daily-deep-reading-practice/.
+
+Wonderloots (2026): [Homepage](https://wanderloots.com/)
 
 ## [Emojis](https://gist.github.com/chengpeiquan/4de9185285bafc7d77f8b47f3c79ad29)
